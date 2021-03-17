@@ -54,8 +54,4 @@ Menú de usuario e interfaz en construcción.
 8/03/2021 al 14/03/2021:
 Resolución de incompatibilidades en Android Studio con paquetes afectados y actualizaciones pendientes.
 
-15/03/2021 al 21/03/2021:
-
-22/03/2021 al 28/03/2021:
-
-Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com
+Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com, Slack, Telegram ó 620 859 904
