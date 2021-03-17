@@ -10,31 +10,51 @@ Siendo un medio periodístico digital que necesita de contínua actualización u
 Descripción de la aplicación móvil (Android Nativo)
 La aplicación inicia con un Splash Screeen en tiempo de carga con inicio de sesión con cuenta Google o e-mail haciendo uso de Firebase BBDD, en la que existen 2 tipos de usuarios con distintos privilegios, uno con derecho de lectura/escritura en la BBDD (administrador) y otro con derecho a lectura (usuario) que puede ver las noticias que publica el administrador y configurar su perfil de usuario en el menú de configuración así como guardar noticias publicadas en 'marcadores' para su posterior visualización. La aplicación estructura su interfaz por categorías de noticias ordenadas por fecha y permite su búsqueda haciendo uso de una barra de búsqueda. Está programadama en JAVA en entorno Android Studio.
 
-Debido a incorporación tardía al curso por cambio de centro, al uso de tecnologías distintas a las cursadas y a la adaptación del proyecto al de I.E.S. Campanillas así como diversos cambios en el planteamiento del proyecto por los motivos citados el proyecto comienza su desarrollo en Enero de 2021.
+Debido a incorporación tardía al curso por cambio de centro, al uso de tecnologías distintas a las cursadas y a la adaptación del proyecto al de I.E.S. Campanillas así como diversos cambios en el planteamiento del proyecto por petición del tutor el proyecto comienza su desarrollo en Enero de 2021.
 
 Histórico de avances actualizado:
 
-04-01-2021 al 10/01/2021:
-
 11/01/2021 al 17/01/2021:
+Creación de los ficheros y directorios básicos del proyecto web.
 
 18/01/2021 al 24/01/2021:
+Desarrollo de iconos y apartados gráficos del proyecto web así como la sección HTML y SASS/CSS
 
 25/01/2021 al 31/01/2021:
+Continúa el proyecto CSS e implementaciones Javascript añadiendo efectos visuales.
+
+En esta fase ya se ha concluido la incorporación de todos los requerimientos del proyecto:
+- Uso de grid Layout/Area Layout.
+- Media Querys responsivos en distintos tamaños adaptados a todos los dispositivos.
+- Menú móvil y menú ordenador.
+- Footer funcionando con flex-box.
+- Incorporación de sonidos en la navegación y otros elementos multimedia.
 
 1/02/2021 al 7/02/2021:
+Implementación de AJAX con BBDD en XML usando codificación Hexadecimal/UTF-8
+Correcta implementación de la búsqueda de rutas XML ordenadas por filtro.
 
 8/02/2021 al 14/02/2021:
+Resolución de problemas y testeo general del diseño y de todas las funcionalidades.
 
 15/02/2021 al 21/02/2021:
+Creación de ficheros de redireccionamiento 404 y htaccess, creación de dominio y puesta
+a punto del servidor host donde se ha alojado la web www.pplinews.tk, además de las 
+respectivas configuraciones en el CDN Cloudflare.
+
+Se ha realizado un testeo completo de la web online.
 
 22/02/2021 al 28/02/2021:
+Diseño de la aplicación móvil, se ha creado el splash screen en tiempo de carga al inicio de sesión
+Se ha implementado el inicio de sesión con e-mail y google y se ha creado la BBDD en Firebase.
 
 1/03/2021 al 7/03/2021:
+Menú de usuario e interfaz en construcción.
 
 8/03/2021 al 14/03/2021:
+Resolución de incompatibilidades en Android Studio con paquetes afectados y actualizaciones pendientes.
 
-15/032021 al 21/03/2021:
+15/03/2021 al 21/03/2021:
 
 22/03/2021 al 28/03/2021:
 
