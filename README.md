@@ -21,6 +21,7 @@ Creación de los ficheros y directorios básicos del proyecto web.
 Desarrollo de iconos y apartados gráficos del proyecto web así como la sección HTML y SASS/CSS
 
 Bibliografía utilizada:
+
 Udemy: 
 Curso Sass/CSS
 
@@ -38,6 +39,7 @@ En esta fase ya se ha concluido la incorporación de todos los requerimientos de
 - Incorporación de sonidos en la navegación y otros elementos multimedia.
 
 Bibliografía utilizada:
+
 W3Schools.com - tutoriales Css.
 
 1/02/2021 al 7/02/2021:
@@ -73,6 +75,7 @@ En la App móvil las imágenes de los usuarios ahora se guardan en la BBDD de Fi
 Queda finalizado el inicio de sesión de los usuarios y las configuraciones de gestión de cuentas en Firebase.
 
 Bibliografía utilizada:
+
 Stackoverflow:
 https://es.stackoverflow.com/questions/411128/error-al-implementar-firebase-en-proyecto-android-studio
 
