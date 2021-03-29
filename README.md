@@ -20,6 +20,13 @@ Creación de los ficheros y directorios básicos del proyecto web.
 18/01/2021 al 24/01/2021:
 Desarrollo de iconos y apartados gráficos del proyecto web así como la sección HTML y SASS/CSS
 
+Bibliografía utilizada:
+Udemy: 
+Curso Sass/CSS
+
+Youtube: 
+Vídeos búsqueda: "cómo compilar Sass/Css en linux" y "... con Plugin en VSCode".
+
 25/01/2021 al 31/01/2021:
 Continúa el proyecto CSS e implementaciones Javascript añadiendo efectos visuales.
 
@@ -30,9 +37,16 @@ En esta fase ya se ha concluido la incorporación de todos los requerimientos de
 - Footer funcionando con flex-box.
 - Incorporación de sonidos en la navegación y otros elementos multimedia.
 
+Bibliografía utilizada:
+W3Schools.com - tutoriales Css.
+
 1/02/2021 al 7/02/2021:
 Implementación de AJAX con BBDD en XML usando codificación Hexadecimal/UTF-8
 Correcta implementación de la búsqueda de rutas XML ordenadas por filtro.
+
+Bibliografía utilizada:
+Foro en stackoverflow.com preguntas de otros usuarios.
+W3Schools.com tutoriales XML path entre otros.
 
 8/02/2021 al 14/02/2021:
 Resolución de problemas y testeo general del diseño y de todas las funcionalidades.
@@ -53,5 +67,23 @@ Menú de usuario e interfaz en construcción.
 
 8/03/2021 al 14/03/2021:
 Resolución de incompatibilidades en Android Studio con paquetes afectados y actualizaciones pendientes.
+
+15/03/2021 al 21/03/2021
+En la App móvil las imágenes de los usuarios ahora se guardan en la BBDD de Firebase, nueva interfaz de usuario.
+Queda finalizado el inicio de sesión de los usuarios y las configuraciones de gestión de cuentas en Firebase.
+
+Bibliografía utilizada:
+Stackoverflow:
+https://es.stackoverflow.com/questions/411128/error-al-implementar-firebase-en-proyecto-android-studio
+
+Android CodeLabs Developers:
+https://developer.android.com/training/permissions/requesting
+
+Firebase Studio Developers:
+https://firebase.google.com/docs/auth/android/password-auth?hl=es
+https://firebase.google.com/docs/storage/android/start?hl=es
+
+Webs:
+https://www.programcreek.com/ "com.google.firebase.auth.UserProfileChangeRequest"
 
 Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com, Slack, Telegram ó 620 859 904
