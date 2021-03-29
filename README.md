@@ -70,7 +70,7 @@ Menú de usuario e interfaz en construcción.
 8/03/2021 al 14/03/2021:
 Resolución de incompatibilidades en Android Studio con paquetes afectados y actualizaciones pendientes.
 
-15/03/2021 al 21/03/2021
+15/03/2021 al 21/03/2021:
 En la App móvil las imágenes de los usuarios ahora se guardan en la BBDD de Firebase, nueva interfaz de usuario.
 Queda finalizado el inicio de sesión de los usuarios y las configuraciones de gestión de cuentas en Firebase.
 
