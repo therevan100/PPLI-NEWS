@@ -101,5 +101,5 @@ https://developer.android.com/reference/com/google/android/material/navigation/N
 Librería de carga de imágenes:
 https://github.com/bumptech/glide
 
-
+Archivos de proyecto encriptados para mayor seguridad, para fines de evaluación solicite la contraseña: rsantiagoy.3ia@gmail.com
 Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com, Slack, Telegram ó 620 859 904
