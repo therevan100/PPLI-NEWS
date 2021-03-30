@@ -89,4 +89,17 @@ https://firebase.google.com/docs/storage/android/start?hl=es
 Webs:
 https://www.programcreek.com/ "com.google.firebase.auth.UserProfileChangeRequest"
 
+22/03/2021 al 28/03/2021
+Funcionalidad e interfaz de la sección publicar noticias terminada.
+
+Bibliografía utilizada:
+
+Android Codelabs Developers
+https://developer.android.com/guide/navigation/navigation-getting-started?hl=es
+https://developer.android.com/reference/com/google/android/material/navigation/NavigationView.OnNavigationItemSelectedListener
+
+Librería de carga de imágenes:
+https://github.com/bumptech/glide
+
+
 Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com, Slack, Telegram ó 620 859 904
