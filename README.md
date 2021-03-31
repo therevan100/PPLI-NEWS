@@ -95,8 +95,18 @@ Funcionalidad e interfaz de la sección publicar noticias terminada.
 Bibliografía utilizada:
 
 Android Codelabs Developers
+https://developer.android.com/guide/topics/ui/layout/recyclerview
 https://developer.android.com/guide/navigation/navigation-getting-started?hl=es
 https://developer.android.com/reference/com/google/android/material/navigation/NavigationView.OnNavigationItemSelectedListener
+
+StackOverflow
+https://stackoverflow.com/questions/34730938/onfragmentinteractionlistener
+https://stackoverflow.com/questions/35583686/android-recyclerview-no-adapter-attached-skipping-layout
+
+Youtube
+
+https://www.youtube.com/watch?v=gGFvbvkZiMs&ab_channel=SimplifiedCoding
+
 
 Librería de carga de imágenes:
 https://github.com/bumptech/glide
