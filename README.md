@@ -3,9 +3,40 @@ Web y aplicación móvil para Plataforma por el Periodismo Libre e Independiente
 
 Visita la web www.pplinews.tk
 
+Imágenes Página Web:
+![WebAppDesktop5](https://user-images.githubusercontent.com/79986286/113147961-9e310e80-9231-11eb-9b7b-556a6881ede9.png)
+![WebAppDesktop](https://user-images.githubusercontent.com/79986286/113147973-a12bff00-9231-11eb-8c0a-82e5329163e0.png)
+![WebAppDesktop2](https://user-images.githubusercontent.com/79986286/113147982-a2f5c280-9231-11eb-8051-fbcc7afc1977.png)
+![WebAppDesktop3](https://user-images.githubusercontent.com/79986286/113147987-a5f0b300-9231-11eb-8d88-fa1db0075da4.png)
+![WebAppDesktop6](https://user-images.githubusercontent.com/79986286/113147990-a6894980-9231-11eb-9952-d649b5ff3962.png)
+![WebAppDesktop4](https://user-images.githubusercontent.com/79986286/113148004-a8eba380-9231-11eb-8e63-1616a4487ccb.png)
+![WebAppDesktop7](https://user-images.githubusercontent.com/79986286/113148007-a9843a00-9231-11eb-97b0-e3f2f0e76486.png)
+![WebAppDesktop8](https://user-images.githubusercontent.com/79986286/113148010-aab56700-9231-11eb-8f32-631d7ca9de3b.png)
+
+Vista Móvil
+
+![WebAppMobile4](https://user-images.githubusercontent.com/79986286/113148086-bef96400-9231-11eb-93e3-3d1921e97bbe.png)
+![WebAppMobile7](https://user-images.githubusercontent.com/79986286/113148095-c02a9100-9231-11eb-9925-d7026f3b21cc.png)
+![WebAppMobile5](https://user-images.githubusercontent.com/79986286/113148101-c15bbe00-9231-11eb-927a-2de487f3b4f8.png)
+![WebAppMobile8](https://user-images.githubusercontent.com/79986286/113148106-c28ceb00-9231-11eb-8314-858437543cdf.png)
+![WebAppMobile9](https://user-images.githubusercontent.com/79986286/113148113-c456ae80-9231-11eb-9818-4d228dbd854b.png)
+![WebAppMobile](https://user-images.githubusercontent.com/79986286/113148129-c7ea3580-9231-11eb-828a-d52e7aa7933b.png)
+![WebAppMobile3](https://user-images.githubusercontent.com/79986286/113148134-c91b6280-9231-11eb-9de9-d69cd6b224e4.png)
+![WebAppMobile2](https://user-images.githubusercontent.com/79986286/113148137-ca4c8f80-9231-11eb-906d-d4254fccd450.png)
+
+
 Descripción del proyecto web
 Landing page SPA (Single Page Application) en javascript puro programado en HTML5, CSS3/SASS con base de datos XML codificada en UTF8 y Hexadecimal.
 Siendo un medio periodístico digital que necesita de contínua actualización utiliza una base de datos a la que accede usando AJAX/Javascript decodificando hexadecimal a UTF8 debido a que incluye código HTML5 dentro del propio XML con el fin de integrar a la perfección ambos lenguajes de programación en un solo fichero de BBDD para la entradas de cada noticia para posteriores implementaciones de Backend en las que se admitirá uso de HTML5.
+
+
+Imágenes Aplicación Móvil
+
+![MobileApp](https://user-images.githubusercontent.com/79986286/113148285-fa942e00-9231-11eb-88fb-fa5b15a08820.jpg)
+![MobileApp2](https://user-images.githubusercontent.com/79986286/113148295-fd8f1e80-9231-11eb-941a-19927f607072.jpg)
+![MobileApp3](https://user-images.githubusercontent.com/79986286/113148319-01bb3c00-9232-11eb-879e-f71e0b97a996.jpg)
+![MobileApp4](https://user-images.githubusercontent.com/79986286/113148323-02ec6900-9232-11eb-83b7-058ffe3f062e.jpg)
+![MobileApp5](https://user-images.githubusercontent.com/79986286/113148329-041d9600-9232-11eb-8160-5bcdbd951325.jpg)
 
 Descripción de la aplicación móvil (Android Nativo)
 La aplicación inicia con un Splash Screeen en tiempo de carga con inicio de sesión con cuenta Google o e-mail haciendo uso de Firebase BBDD, en la que existen 2 tipos de usuarios con distintos privilegios, uno con derecho de lectura/escritura en la BBDD (administrador) y otro con derecho a lectura (usuario) que puede ver las noticias que publica el administrador y configurar su perfil de usuario en el menú de configuración así como guardar noticias publicadas en 'marcadores' para su posterior visualización. La aplicación estructura su interfaz por categorías de noticias ordenadas por fecha y permite su búsqueda haciendo uso de una barra de búsqueda. Está programadama en JAVA en entorno Android Studio.
