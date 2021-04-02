@@ -1,5 +1,7 @@
 # PPLI-NEWS
-Web y aplicación móvil para Plataforma por el Periodismo Libre e Independiente (PPLI NEWS)
+![cabeceradecanal](https://user-images.githubusercontent.com/79986286/113424145-eede6e00-93cf-11eb-9aba-705112fda4ef.jpg)
+
+<h1>Web y aplicación móvil para Plataforma por el Periodismo Libre e Independiente (PPLI NEWS) </h1>
 
 Visita la web www.pplinews.tk
 
