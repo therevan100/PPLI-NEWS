@@ -14,15 +14,7 @@ Imágenes Página Web:
 ![WebAppDesktop8](https://user-images.githubusercontent.com/79986286/113148010-aab56700-9231-11eb-8f32-631d7ca9de3b.png)
 
 Vista Móvil
-
-![WebAppMobile4](https://user-images.githubusercontent.com/79986286/113148086-bef96400-9231-11eb-93e3-3d1921e97bbe.png)
-![WebAppMobile7](https://user-images.githubusercontent.com/79986286/113148095-c02a9100-9231-11eb-9925-d7026f3b21cc.png)
-![WebAppMobile5](https://user-images.githubusercontent.com/79986286/113148101-c15bbe00-9231-11eb-927a-2de487f3b4f8.png)
-![WebAppMobile8](https://user-images.githubusercontent.com/79986286/113148106-c28ceb00-9231-11eb-8314-858437543cdf.png)
-![WebAppMobile9](https://user-images.githubusercontent.com/79986286/113148113-c456ae80-9231-11eb-9818-4d228dbd854b.png)
-![WebAppMobile](https://user-images.githubusercontent.com/79986286/113148129-c7ea3580-9231-11eb-828a-d52e7aa7933b.png)
-![WebAppMobile3](https://user-images.githubusercontent.com/79986286/113148134-c91b6280-9231-11eb-9de9-d69cd6b224e4.png)
-![WebAppMobile2](https://user-images.githubusercontent.com/79986286/113148137-ca4c8f80-9231-11eb-906d-d4254fccd450.png)
+<img src="https://user-images.githubusercontent.com/79986286/113148086-bef96400-9231-11eb-93e3-3d1921e97bbe.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148095-c02a9100-9231-11eb-9925-d7026f3b21cc.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148101-c15bbe00-9231-11eb-927a-2de487f3b4f8.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148106-c28ceb00-9231-11eb-8314-858437543cdf.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148113-c456ae80-9231-11eb-9818-4d228dbd854b.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148129-c7ea3580-9231-11eb-828a-d52e7aa7933b.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148134-c91b6280-9231-11eb-9de9-d69cd6b224e4.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148137-ca4c8f80-9231-11eb-906d-d4254fccd450.png" width="auto" height="600px">
 
 
 Descripción del proyecto web
