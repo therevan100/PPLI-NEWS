@@ -140,7 +140,7 @@ Webs:
 https://www.programcreek.com/ "com.google.firebase.auth.UserProfileChangeRequest"
 
 22/03/2021 al 28/03/2021
-Funcionalidad e interfaz de la sección publicar noticias terminada.
+Funcionalidad e interfaz de la sección publicar noticias terminada. Sección de comentarios terminada.
 
 Bibliografía utilizada:
 
@@ -157,9 +157,17 @@ Youtube
 
 https://www.youtube.com/watch?v=gGFvbvkZiMs&ab_channel=SimplifiedCoding
 
-
 Librería de carga de imágenes:
 https://github.com/bumptech/glide
 
-Archivos de proyecto encriptados para mayor seguridad, para fines de evaluación solicite la contraseña: rsantiagoy.3ia@gmail.com
-Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com, Slack, Telegram ó 620 859 904
+22/03/2021 al 28/03/2021
+Apartados gráficos de la sección configuración del usuario, estilos visuales, funcionalidades: modificar contraseña, modificar e-mail, recuperar contraseña terminadas.
+
+https://developer.android.com/guide/topics/ui/layout/recyclerview
+https://www.youtube.com/watch?v=gGFvbvkZiMs&ab_channel=SimplifiedCoding
+
+
+
+Archivos de proyecto encriptados para mayor seguridad. Para fines de evaluación solicite la contraseña: rsantiagoy.3ia@gmail.com.
+
+Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com, Slack, Telegram ó tlf: 620 859 904.
