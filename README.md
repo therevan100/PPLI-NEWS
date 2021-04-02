@@ -32,11 +32,30 @@ Siendo un medio periodístico digital que necesita de contínua actualización u
 
 Imágenes Aplicación Móvil
 
-![MobileApp](https://user-images.githubusercontent.com/79986286/113148285-fa942e00-9231-11eb-88fb-fa5b15a08820.jpg)
-![MobileApp2](https://user-images.githubusercontent.com/79986286/113148295-fd8f1e80-9231-11eb-941a-19927f607072.jpg)
-![MobileApp3](https://user-images.githubusercontent.com/79986286/113148319-01bb3c00-9232-11eb-879e-f71e0b97a996.jpg)
-![MobileApp4](https://user-images.githubusercontent.com/79986286/113148323-02ec6900-9232-11eb-83b7-058ffe3f062e.jpg)
-![MobileApp5](https://user-images.githubusercontent.com/79986286/113148329-041d9600-9232-11eb-8160-5bcdbd951325.jpg)
+![4](https://user-images.githubusercontent.com/79986286/113420752-22b69500-93ca-11eb-8500-81624a515035.jpg)
+
+![5](https://user-images.githubusercontent.com/79986286/113420744-1df1e100-93ca-11eb-8abf-beebf77b07e4.jpg)
+
+![13](https://user-images.githubusercontent.com/79986286/113420702-0a467a80-93ca-11eb-9ba7-74e15bf7101e.jpg)
+
+![19](https://user-images.githubusercontent.com/79986286/113420708-0dda0180-93ca-11eb-980b-58d2d1e19930.jpg)
+
+![12](https://user-images.githubusercontent.com/79986286/113420824-4ed21600-93ca-11eb-97da-b5eacab0e6ab.jpg)
+
+![11](https://user-images.githubusercontent.com/79986286/113420720-14687900-93ca-11eb-88c2-70f2bf4a0e1f.jpg)
+
+![7](https://user-images.githubusercontent.com/79986286/113420770-2e09c080-93ca-11eb-8585-414e4f109910.jpg)
+
+![8](https://user-images.githubusercontent.com/79986286/113420779-33670b00-93ca-11eb-8692-125a62f63503.jpg)
+
+![6](https://user-images.githubusercontent.com/79986286/113420786-3661fb80-93ca-11eb-9902-da6d2d2d5b40.jpg)
+
+![1](https://user-images.githubusercontent.com/79986286/113420793-3bbf4600-93ca-11eb-8cf1-3f19c751a84d.jpg)
+
+![2](https://user-images.githubusercontent.com/79986286/113420796-3f52cd00-93ca-11eb-8d01-a771eebc2018.jpg)
+
+![3](https://user-images.githubusercontent.com/79986286/113420801-42e65400-93ca-11eb-90de-b9a01270bd5f.jpg)
+
 
 Descripción de la aplicación móvil (Android Nativo)
 La aplicación inicia con un Splash Screeen en tiempo de carga con inicio de sesión con cuenta Google o e-mail haciendo uso de Firebase BBDD, en la que existen 2 tipos de usuarios con distintos privilegios, uno con derecho de lectura/escritura en la BBDD (administrador) y otro con derecho a lectura (usuario) que puede ver las noticias que publica el administrador y configurar su perfil de usuario en el menú de configuración así como guardar noticias publicadas en 'marcadores' para su posterior visualización. La aplicación estructura su interfaz por categorías de noticias ordenadas por fecha y permite su búsqueda haciendo uso de una barra de búsqueda. Está programadama en JAVA en entorno Android Studio.
