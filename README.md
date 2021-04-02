@@ -43,7 +43,8 @@ Imágenes Aplicación Móvil
 <img src="https://user-images.githubusercontent.com/79986286/113420786-3661fb80-93ca-11eb-9902-da6d2d2d5b40.jpg" width="auto" height="600px">
 <img src="https://user-images.githubusercontent.com/79986286/113420793-3bbf4600-93ca-11eb-8cf1-3f19c751a84d.jpg" width="auto" height="600px">
 <img src="https://user-images.githubusercontent.com/79986286/113420796-3f52cd00-93ca-11eb-8d01-a771eebc2018.jpg" width="auto" height="600px">
-<img src="https://user-images.githubusercontent.com/79986286/113420801-42e65400-93ca-11eb-90de-b9a01270bd5f.jpg" width="auto" height="600px">
+
+<img src="https://user-images.githubusercontent.com/79986286/113420801-42e65400-93ca-11eb-90de-b9a01270bd5f.jpg" width="auto" height="900px">
 
 Descripción de la aplicación móvil (Android Nativo)
 La aplicación inicia con un Splash Screeen en tiempo de carga con inicio de sesión con cuenta Google o e-mail haciendo uso de Firebase BBDD, en la que existen 2 tipos de usuarios con distintos privilegios, uno con derecho de lectura/escritura en la BBDD (administrador) y otro con derecho a lectura (usuario) que puede ver las noticias que publica el administrador y configurar su perfil de usuario en el menú de configuración así como guardar noticias publicadas en 'marcadores' para su posterior visualización. La aplicación estructura su interfaz por categorías de noticias ordenadas por fecha y permite su búsqueda haciendo uso de una barra de búsqueda. Está programadama en JAVA en entorno Android Studio.
