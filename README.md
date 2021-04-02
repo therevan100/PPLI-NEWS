@@ -32,29 +32,29 @@ Siendo un medio periodístico digital que necesita de contínua actualización u
 
 Imágenes Aplicación Móvil
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420752-22b69500-93ca-11eb-8500-81624a515035.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420752-22b69500-93ca-11eb-8500-81624a515035.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420744-1df1e100-93ca-11eb-8abf-beebf77b07e4.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420744-1df1e100-93ca-11eb-8abf-beebf77b07e4.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420702-0a467a80-93ca-11eb-9ba7-74e15bf7101e.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420702-0a467a80-93ca-11eb-9ba7-74e15bf7101e.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420708-0dda0180-93ca-11eb-980b-58d2d1e19930.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420708-0dda0180-93ca-11eb-980b-58d2d1e19930.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420824-4ed21600-93ca-11eb-97da-b5eacab0e6ab.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420824-4ed21600-93ca-11eb-97da-b5eacab0e6ab.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420720-14687900-93ca-11eb-88c2-70f2bf4a0e1f.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420720-14687900-93ca-11eb-88c2-70f2bf4a0e1f.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420770-2e09c080-93ca-11eb-8585-414e4f109910.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420770-2e09c080-93ca-11eb-8585-414e4f109910.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420779-33670b00-93ca-11eb-8692-125a62f63503.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420779-33670b00-93ca-11eb-8692-125a62f63503.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420786-3661fb80-93ca-11eb-9902-da6d2d2d5b40.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420786-3661fb80-93ca-11eb-9902-da6d2d2d5b40.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420793-3bbf4600-93ca-11eb-8cf1-3f19c751a84d.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420793-3bbf4600-93ca-11eb-8cf1-3f19c751a84d.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420796-3f52cd00-93ca-11eb-8d01-a771eebc2018.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420796-3f52cd00-93ca-11eb-8d01-a771eebc2018.jpg" width="auto" height="600px">
 <br>
-<img src="https://user-images.githubusercontent.com/79986286/113420801-42e65400-93ca-11eb-90de-b9a01270bd5f.jpg" width="auto" height="400px">
+<img src="https://user-images.githubusercontent.com/79986286/113420801-42e65400-93ca-11eb-90de-b9a01270bd5f.jpg" width="auto" height="600px">
 <br>
 <br>
 Descripción de la aplicación móvil (Android Nativo)
