@@ -146,7 +146,7 @@ https://github.com/bumptech/glide
 
 29/03/2021 al 04/03/2021:
 
-Apartados gráficos de la sección configuración del usuario, estilos visuales, funcionalidades: modificar contraseña, modificar e-mail, recuperar contraseña terminadas. Toda la configuración del perfil del usuario, funcionalidades y layouts terminadas.
+Apartados gráficos de la sección configuración del usuario, estilos visuales, funcionalidades: modificar contraseña, modificar e-mail, recuperar contraseña, modificar nombre, modificar fecha de nacimiento y seleccionar género terminadas.
 
 Bibliografía utilizada:
 
@@ -158,6 +158,11 @@ https://www.youtube.com/watch?v=gGFvbvkZiMs&ab_channel=SimplifiedCoding
 https://firebase.google.com/docs/auth/android/manage-users?hl=es#java_1
 
 https://firebase.google.com/docs/database/admin/retrieve-data
+
+
+
+05/03/2021 al 05/03/2021:
+Trabajando en el modo nocturno y el menú de configuración de la cuenta.
 
 
 Archivos de proyecto encriptados para mayor seguridad. Para fines de evaluación solicite la contraseña: rsantiagoy.3ia@gmail.com.
