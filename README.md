@@ -10,6 +10,7 @@ Landing page SPA (Single Page Application) en javascript puro programado en HTML
 Siendo un medio periodístico digital que necesita de contínua actualización, 'Plataforma por el Periodismo Libre e Independiente' utiliza una base de datos a la que accede haciendo uso de AJAX/Javascript y decodificando hexadecimal a UTF8 debido a que incluye código HTML5 dentro del propio XML con el fin de integrar a la perfección ambos lenguajes de programación en un solo fichero de DB para la entradas de cada noticia. Todo esto se imprime en un formato totalmente Responsive, que puede adaptarse a todos los dispositivos. Incluye sonidos al hacer click en el menú y en los post, una sección de contenido 'relacionado' en caso de haberlo en la DB en relación a la noticia que está visualizando el usuario en ese momento que tenga asignada la misma categoría. Incluye Scroll view y tecnologías similares permitidas en los requisitos de la web. Está preparada para posteriores implementaciones de Backend en las que se admitirá uso de HTML5 para la publicación de contenido. Las seciones de la web contienen los ultimos post añadidos a la base de datos ordenados por id y agrupados por categoría. Se ha hecho uso de la API de Youtube, Spotify, Twicht y Telegrampara añadir contenido multimedia alojado en estas plataformas.
 
 Imágenes Página Web:
+
 ![WebAppDesktop5](https://user-images.githubusercontent.com/79986286/113147961-9e310e80-9231-11eb-9b7b-556a6881ede9.png)
 ![WebAppDesktop](https://user-images.githubusercontent.com/79986286/113147973-a12bff00-9231-11eb-8c0a-82e5329163e0.png)
 ![WebAppDesktop2](https://user-images.githubusercontent.com/79986286/113147982-a2f5c280-9231-11eb-8051-fbcc7afc1977.png)
@@ -19,7 +20,8 @@ Imágenes Página Web:
 ![WebAppDesktop7](https://user-images.githubusercontent.com/79986286/113148007-a9843a00-9231-11eb-97b0-e3f2f0e76486.png)
 ![WebAppDesktop8](https://user-images.githubusercontent.com/79986286/113148010-aab56700-9231-11eb-8f32-631d7ca9de3b.png)
 
-Vista Móvil
+Vista Móvil:
+
 <img src="https://user-images.githubusercontent.com/79986286/113148086-bef96400-9231-11eb-93e3-3d1921e97bbe.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148095-c02a9100-9231-11eb-9925-d7026f3b21cc.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148101-c15bbe00-9231-11eb-927a-2de487f3b4f8.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148106-c28ceb00-9231-11eb-8314-858437543cdf.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148113-c456ae80-9231-11eb-9818-4d228dbd854b.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148129-c7ea3580-9231-11eb-828a-d52e7aa7933b.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148134-c91b6280-9231-11eb-9de9-d69cd6b224e4.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148137-ca4c8f80-9231-11eb-906d-d4254fccd450.png" width="auto" height="600px">
 
 
@@ -33,7 +35,6 @@ Imágenes Aplicación Móvil
 
 <img src="https://user-images.githubusercontent.com/79986286/113598418-695ff580-963d-11eb-8ec5-b164a940864c.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598423-69f88c00-963d-11eb-9e32-5072e75ccd1f.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598424-6a912280-963d-11eb-9ddd-92b1d1161efc.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598425-6b29b900-963d-11eb-85ac-08c8c0943113.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598428-6b29b900-963d-11eb-8c5a-6c47c539ded5.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598432-6bc24f80-963d-11eb-821f-92dea7b00f24.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598434-6bc24f80-963d-11eb-89c2-3826aaece172.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598436-6c5ae600-963d-11eb-9436-86d89f7f9ab2.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598437-6c5ae600-963d-11eb-811f-0f31814599cb.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598439-6cf37c80-963d-11eb-9620-fbaf70c2141b.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598440-6d8c1300-963d-11eb-8154-19f5fadd835b.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598441-6d8c1300-963d-11eb-8129-bebdd92831aa.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598442-6e24a980-963d-11eb-81ef-a0a22948b3cb.jpg" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113598443-6ebd4000-963d-11eb-8440-9f71e375fc84.jpg" width="auto" height="600px">
 
-Debido a incorporación tardía al curso por cambio de centro, al uso de tecnologías distintas a las cursadas y a la adaptación del proyecto al de I.E.S. Campanillas así como diversos cambios en el planteamiento del proyecto por petición del tutor el proyecto comienza su desarrollo en Enero de 2021.
 
 Sobre la base de datos: La utilizada es Firebase Real Time Database y Firebase Storage para imágenes. Firebase utiliza un sistema .json para almacenar los datos.
 
@@ -43,6 +44,7 @@ Esta es la configuración actual de la base de datos:
 Estos son los datos de prueba introducidos en la Base de datos:
 <img src="https://user-images.githubusercontent.com/79986286/113622127-d33bc780-965c-11eb-9799-96534911a785.png" width="auto" height="900px"><img src="https://user-images.githubusercontent.com/79986286/113622130-d3d45e00-965c-11eb-97f3-b1345344f264.png" width="auto" height="900px"><img src="https://user-images.githubusercontent.com/79986286/113622135-d5058b00-965c-11eb-9ca9-9f7d74d45377.png" width="auto" height="900px">
 
+Debido a incorporación tardía al curso por cambio de centro, al uso de tecnologías distintas a las cursadas y a la adaptación del proyecto al de I.E.S. Campanillas así como diversos cambios en el planteamiento del proyecto por petición del tutor el proyecto comienza su desarrollo en Enero de 2021.
 
 Histórico de avances actualizado:
 
