@@ -7,8 +7,7 @@ Visita la web www.pplinews.tk
 
 Descripción del proyecto web
 Landing page SPA (Single Page Application) en javascript puro programado en HTML5, CSS3/SASS con base de datos XML codificada en UTF8 y Hexadecimal.
-Siendo un medio periodístico digital que necesita de contínua actualización, 'Plataforma por el Periodismo Libre e Independiente' utiliza una base de datos a la que accede haciendo uso de AJAX/Javascript y decodificando hexadecimal a UTF8 debido a que incluye código HTML5 dentro del propio XML con el fin de integrar a la perfección ambos lenguajes de programación en un solo fichero de DB para la entradas de cada noticia, está preparada para posteriores implementaciones de Backend en las que se admitirá uso de HTML5 para la publicación de contenido en un formato totalmente Responsive, que puede adaptarse a todos los dispositivos.
-
+Siendo un medio periodístico digital que necesita de contínua actualización, 'Plataforma por el Periodismo Libre e Independiente' utiliza una base de datos a la que accede haciendo uso de AJAX/Javascript y decodificando hexadecimal a UTF8 debido a que incluye código HTML5 dentro del propio XML con el fin de integrar a la perfección ambos lenguajes de programación en un solo fichero de DB para la entradas de cada noticia, está preparada para posteriores implementaciones de Backend en las que se admitirá uso de HTML5 para la publicación de contenido en un formato totalmente Responsive, que puede adaptarse a todos los dispositivos. Incluye sonidos al hacer click en el menú y en los post, una sección de contenido 'relacionado' en caso de haberlo en la DB en relación a la noticia que está visualizando el usuario en ese momento que tenga asignada la misma categoría. Incluye Scroll view y tecnologías similares permitidas en los requisitos de la web.
 
 Imágenes Página Web:
 ![WebAppDesktop5](https://user-images.githubusercontent.com/79986286/113147961-9e310e80-9231-11eb-9b7b-556a6881ede9.png)
@@ -26,7 +25,9 @@ Vista Móvil
 
 
 Descripción de la aplicación móvil (Android Nativo)
-La aplicación inicia con un Splash Screeen en tiempo de carga con inicio de sesión/ registro con cuenta e-mail haciendo uso de Firebase DB, en la que existen 2 tipos de usuarios con distintos privilegios, uno con derecho de lectura/escritura en la DB (administrador) y otro con derecho a lectura (usuario) que puede ver las noticias que publica el administrador y configurar su perfil de usuario en el menú de configuración así como guardar noticias publicadas en 'marcadores' para su posterior visualización (marcador en progreso). La aplicación estructura su interfaz por categorías de noticias ordenadas por fecha y permite su búsqueda haciendo uso de una barra de búsqueda (en progreso). Está programadama en JAVA en entorno Android Studio.
+La aplicación inicia con un Splash Screeen en tiempo de carga con inicio de sesión/ registro con cuenta e-mail haciendo uso de Firebase DB, en la que existen 2 tipos de usuarios con distintos privilegios, uno con derecho de lectura/escritura en la DB (administrador) y otro con derecho a lectura (usuario) que puede ver las noticias que publica el administrador y configurar sus propios datos de perfil de usuario (imagen de perfil, nombre, email, contraseña, fecha de nacimiento, género etc en tiempo real) en el menú de configuración, así como guardar noticias publicadas en 'marcadores' para su posterior visualización (marcador en progreso). 
+
+La aplicación estructura su interfaz por categorías de noticias ordenadas por fecha de creación y permite su búsqueda haciendo uso de una barra de búsqueda (barra de búsqueda en progreso). La apllicación incluye modo nocturno selecionable desde el panel lateral (modo nocturno en progreso) además de funciones adicionales como recuperar contraseña por correo a través de 'olvidé mi contraseña'. También incluye una sección de comentarios en cada noticia publicada en la que el usuario puede comentar. El usuario también puede optar por no establecer una imagen de perfil, por lo que para dicho caso todas las funciones comunes al usuario están establecidas con una imagen de perfil por defecto. Está programadama en JAVA en entorno Android Studio.
 
 Imágenes Aplicación Móvil
 
@@ -34,6 +35,7 @@ Imágenes Aplicación Móvil
 
 Debido a incorporación tardía al curso por cambio de centro, al uso de tecnologías distintas a las cursadas y a la adaptación del proyecto al de I.E.S. Campanillas así como diversos cambios en el planteamiento del proyecto por petición del tutor el proyecto comienza su desarrollo en Enero de 2021.
 
+Sobre la base de datos: La utilizada es Firebase Real Time Database y Firebase Storage para imágenes. Firebase utiliza un sistema .json para almacenar los datos.
 
 Esta es la configuración actual de la base de datos:
 <img src="https://user-images.githubusercontent.com/79986286/113621635-26f9e100-965c-11eb-99e7-1a8a11d1dfd1.png" width="auto" height="900px"><img src="https://user-images.githubusercontent.com/79986286/113621637-27927780-965c-11eb-86cc-20b914dd324c.png" width="auto" height="900px"><img src="https://user-images.githubusercontent.com/79986286/113621642-28c3a480-965c-11eb-8ab3-3ad575d6b208.png" width="auto" height="900px">
