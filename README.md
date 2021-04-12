@@ -171,9 +171,8 @@ https://firebase.google.com/docs/auth/android/manage-users?hl=es#java_1
 https://firebase.google.com/docs/database/admin/retrieve-data
 
 
-
-05/03/2021 al 05/03/2021:
-Trabajando en el modo nocturno y el menú de configuración de la cuenta.
+05/03/2021 al 11/03/2021:
+Trabajando en el modo nocturno y el menú de configuración de la cuenta. Terminada consultas a la BD y "secciones" de las categorías del menú lateral.
 
 
 Archivos de proyecto encriptados para mayor seguridad. Para fines de evaluación solicite la contraseña: rsantiagoy.3ia@gmail.com.
