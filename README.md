@@ -172,6 +172,7 @@ https://firebase.google.com/docs/database/admin/retrieve-data
 
 
 05/03/2021 al 11/03/2021:
+
 Trabajando en el modo nocturno y el menú de configuración de la cuenta. Terminada consultas a la BD y "secciones" de las categorías del menú lateral. Opción Cerrar sesión anclada al menú superior derecho.
 
 
