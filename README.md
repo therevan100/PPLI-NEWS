@@ -4,6 +4,7 @@
 <h1>Web y aplicación móvil para Plataforma por el Periodismo Libre e Independiente (PPLI NEWS) </h1>
 
 Visita la web www.pplinews.tk
+DEMO de la APP -> https://www.youtube.com/watch?v=Xff0diYWiV4&ab_channel=Rub%C3%A9nSantiago
 
 Descripción del proyecto web
 Landing page SPA (Single Page Application) en javascript puro programado en HTML5, CSS3/SASS con base de datos XML codificada en UTF8 y Hexadecimal.
