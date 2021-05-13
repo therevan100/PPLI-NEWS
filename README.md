@@ -176,6 +176,4 @@ https://firebase.google.com/docs/database/admin/retrieve-data
 Trabajando en el modo nocturno y el menú de configuración de la cuenta. Terminada consultas a la BD y "secciones" de las categorías del menú lateral. Opción Cerrar sesión anclada al menú superior derecho.
 
 
-Archivos de proyecto encriptados para mayor seguridad. Para fines de evaluación solicite la contraseña: rsantiagoy.3ia@gmail.com.
-
-Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com, Slack, Telegram ó tlf: 620 859 904.
+Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com
