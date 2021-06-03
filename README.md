@@ -12,19 +12,28 @@ Siendo un medio periodístico digital que necesita de contínua actualización, 
 
 Imágenes Página Web:
 
-![WebAppDesktop5](https://user-images.githubusercontent.com/79986286/113147961-9e310e80-9231-11eb-9b7b-556a6881ede9.png)
-![WebAppDesktop](https://user-images.githubusercontent.com/79986286/113147973-a12bff00-9231-11eb-8c0a-82e5329163e0.png)
-![WebAppDesktop2](https://user-images.githubusercontent.com/79986286/113147982-a2f5c280-9231-11eb-8051-fbcc7afc1977.png)
-![WebAppDesktop3](https://user-images.githubusercontent.com/79986286/113147987-a5f0b300-9231-11eb-8d88-fa1db0075da4.png)
-![WebAppDesktop6](https://user-images.githubusercontent.com/79986286/113147990-a6894980-9231-11eb-9952-d649b5ff3962.png)
-![WebAppDesktop4](https://user-images.githubusercontent.com/79986286/113148004-a8eba380-9231-11eb-8e63-1616a4487ccb.png)
-![WebAppDesktop7](https://user-images.githubusercontent.com/79986286/113148007-a9843a00-9231-11eb-97b0-e3f2f0e76486.png)
-![WebAppDesktop8](https://user-images.githubusercontent.com/79986286/113148010-aab56700-9231-11eb-8f32-631d7ca9de3b.png)
+![1](https://user-images.githubusercontent.com/79986286/120644083-3ab49e80-c477-11eb-847e-63e3ed92dff9.JPG)
+![2](https://user-images.githubusercontent.com/79986286/120644091-3d16f880-c477-11eb-9398-747341b3641c.JPG)
+![3](https://user-images.githubusercontent.com/79986286/120644098-3e482580-c477-11eb-8635-cd3187905a2c.JPG)
+![4](https://user-images.githubusercontent.com/79986286/120644101-3ee0bc00-c477-11eb-8d7a-b57d681a87ed.JPG)
+![5](https://user-images.githubusercontent.com/79986286/120644106-40aa7f80-c477-11eb-86eb-e8b1c465efbb.JPG)
+![6](https://user-images.githubusercontent.com/79986286/120644113-41431600-c477-11eb-9186-2b9f934aa1e0.JPG)
 
 Vista Móvil:
 
-<img src="https://user-images.githubusercontent.com/79986286/113148086-bef96400-9231-11eb-93e3-3d1921e97bbe.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148095-c02a9100-9231-11eb-9925-d7026f3b21cc.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148101-c15bbe00-9231-11eb-927a-2de487f3b4f8.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148106-c28ceb00-9231-11eb-8314-858437543cdf.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148113-c456ae80-9231-11eb-9818-4d228dbd854b.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148129-c7ea3580-9231-11eb-828a-d52e7aa7933b.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148134-c91b6280-9231-11eb-9de9-d69cd6b224e4.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148137-ca4c8f80-9231-11eb-906d-d4254fccd450.png" width="auto" height="600px">
+![7](https://user-images.githubusercontent.com/79986286/120644115-42744300-c477-11eb-9ccc-5fd74e178d2e.JPG)
+![8](https://user-images.githubusercontent.com/79986286/120644117-430cd980-c477-11eb-81d7-029326c37604.JPG)
+![9](https://user-images.githubusercontent.com/79986286/120644119-43a57000-c477-11eb-83d8-3cb70c804229.JPG)
+![10](https://user-images.githubusercontent.com/79986286/120644122-44d69d00-c477-11eb-9243-dfe0a2c8fd6b.JPG)
+![11](https://user-images.githubusercontent.com/79986286/120644123-4607ca00-c477-11eb-8821-41fbd0bf49f1.JPG)
+![12](https://user-images.githubusercontent.com/79986286/120644127-46a06080-c477-11eb-9425-c806f7b651c5.JPG)
+![13](https://user-images.githubusercontent.com/79986286/120644130-47d18d80-c477-11eb-8d21-f61adb457c7d.JPG)
+![14](https://user-images.githubusercontent.com/79986286/120644135-486a2400-c477-11eb-9641-563e835aeb2e.JPG)
+![15](https://user-images.githubusercontent.com/79986286/120644138-4902ba80-c477-11eb-8a24-632851002707.JPG)
+![16](https://user-images.githubusercontent.com/79986286/120644140-499b5100-c477-11eb-8341-b95ae04a4c05.JPG)
+![17](https://user-images.githubusercontent.com/79986286/120644144-4acc7e00-c477-11eb-9938-63c4fa684e1e.JPG)
 
+<img src="https://user-images.githubusercontent.com/79986286/113148086-bef96400-9231-11eb-93e3-3d1921e97bbe.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148095-c02a9100-9231-11eb-9925-d7026f3b21cc.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148101-c15bbe00-9231-11eb-927a-2de487f3b4f8.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148106-c28ceb00-9231-11eb-8314-858437543cdf.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148113-c456ae80-9231-11eb-9818-4d228dbd854b.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148129-c7ea3580-9231-11eb-828a-d52e7aa7933b.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148134-c91b6280-9231-11eb-9de9-d69cd6b224e4.png" width="auto" height="600px"><img src="https://user-images.githubusercontent.com/79986286/113148137-ca4c8f80-9231-11eb-906d-d4254fccd450.png" width="auto" height="600px">
 
 
 Descripción de la aplicación móvil (Android Nativo)
