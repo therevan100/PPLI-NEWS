@@ -179,5 +179,10 @@ https://firebase.google.com/docs/database/admin/retrieve-data
 
 Trabajando en el modo nocturno y el menú de configuración de la cuenta. Terminada consultas a la BD y "secciones" de las categorías del menú lateral. Opción Cerrar sesión anclada al menú superior derecho.
 
+31/05/2021 al 05/06/2021:
+
+Actualización de los estilos web y funcionalidades javascript de parseo de noticias, botones de compartir y reescritura de url entre otras mejoradas e implementadas.
+Diseño web finalmente completado.
+Aplicación móvil optimización de las consultas a BBDD Firestore y creación de menús.
 
 Para cualquier duda o sugerencia: rsantiagoy.3ia@gmail.com
