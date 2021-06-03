@@ -10,10 +10,25 @@ Descripción del proyecto web
 Landing page SPA (Single Page Application) en javascript puro programado en HTML5, CSS3/SASS con base de datos XML codificada en UTF8 y Hexadecimal.
 Siendo un medio periodístico digital que necesita de contínua actualización, 'Plataforma por el Periodismo Libre e Independiente' utiliza una base de datos a la que accede haciendo uso de AJAX/Javascript y decodificando hexadecimal a UTF8 debido a que incluye código HTML5 dentro del propio XML con el fin de integrar a la perfección ambos lenguajes de programación en un solo fichero de DB para la entradas de cada noticia. Todo esto se imprime en un formato totalmente Responsive, que puede adaptarse a todos los dispositivos. Incluye sonidos al hacer click en el menú y en los post, una sección de contenido 'relacionado' en caso de haberlo en la DB en relación a la noticia que está visualizando el usuario en ese momento que tenga asignada la misma categoría. Incluye Scroll view y tecnologías similares permitidas en los requisitos de la web. Está preparada para posteriores implementaciones de Backend en las que se admitirá uso de HTML5 para la publicación de contenido. Las seciones de la web contienen los ultimos post añadidos a la base de datos ordenados por id y agrupados por categoría. Se ha hecho uso de la API de Youtube, Spotify, Twitch y Telegram para añadir contenido multimedia alojado en estas plataformas. También incluye un Ticker en el que se muestran las últimas noticias y se puede hacer clic para acceder a la noticia. Incluye un botón para ponerse en contacto por mail al pie de página. Para cumplir con la legalidad incluye un aviso de uso de cookies que se muestra al usuario cada vez que entra hasta que clique aceptar, una vez las acepta guarda su preferencia y no vuelve a aparecer el mensaje.
 
-Imágenes Página Web:
+Imágenes de la Página Web -> Tablet, Móvil compatible con todos los tamaños y dispositivos:
 
-<iframe width="800" height="800" src="https://www.pplinews.tk/"></iframe>
-
+![1](https://user-images.githubusercontent.com/79986286/120645384-ad724980-c478-11eb-9c48-cba84dfe3e15.JPG)
+![2](https://user-images.githubusercontent.com/79986286/120645387-ae0ae000-c478-11eb-9107-57c53c24e9b0.JPG)
+![3](https://user-images.githubusercontent.com/79986286/120645388-aea37680-c478-11eb-8d0f-30a79f518811.JPG)
+![4](https://user-images.githubusercontent.com/79986286/120645391-aea37680-c478-11eb-8eaa-8690024aebdf.JPG)
+![5](https://user-images.githubusercontent.com/79986286/120645393-af3c0d00-c478-11eb-95f5-30049da80555.JPG)
+![6](https://user-images.githubusercontent.com/79986286/120645396-af3c0d00-c478-11eb-8e21-7fde0e6b2503.JPG)
+![7](https://user-images.githubusercontent.com/79986286/120645399-afd4a380-c478-11eb-823b-d8d83739380a.JPG)
+![8](https://user-images.githubusercontent.com/79986286/120645401-afd4a380-c478-11eb-9bd5-06f311fb2da6.JPG)
+![9](https://user-images.githubusercontent.com/79986286/120645405-b06d3a00-c478-11eb-9c97-ce86a75b90e5.JPG)
+![10](https://user-images.githubusercontent.com/79986286/120645406-b06d3a00-c478-11eb-8544-e951fb272bd2.JPG)
+![11](https://user-images.githubusercontent.com/79986286/120645409-b105d080-c478-11eb-9824-bf1151ff0cee.JPG)
+![12](https://user-images.githubusercontent.com/79986286/120645413-b105d080-c478-11eb-941b-9dd80caad17d.JPG)
+![13](https://user-images.githubusercontent.com/79986286/120645415-b19e6700-c478-11eb-8c03-b6474f3a0731.JPG)
+![14](https://user-images.githubusercontent.com/79986286/120645416-b19e6700-c478-11eb-8bbe-aaf166e75ec3.JPG)
+![15](https://user-images.githubusercontent.com/79986286/120645417-b236fd80-c478-11eb-974d-8b51932975ea.JPG)
+![16](https://user-images.githubusercontent.com/79986286/120645419-b236fd80-c478-11eb-96ff-ba5f2d299d5f.JPG)
+![17](https://user-images.githubusercontent.com/79986286/120645422-b2cf9400-c478-11eb-9565-4536b4b0fd3c.JPG)
 
 Descripción de la aplicación móvil (Android Nativo)
 La aplicación inicia con un Splash Screeen en tiempo de carga con inicio de sesión/ registro con cuenta e-mail haciendo uso de Firebase DB, en la que existen 2 tipos de usuarios con distintos privilegios, uno con derecho de lectura/escritura en la DB (administrador) y otro con derecho a lectura (usuario) que puede ver las noticias que publica el administrador y configurar sus propios datos de perfil de usuario (imagen de perfil, nombre, email, contraseña, fecha de nacimiento, género etc en tiempo real) en el menú de configuración, así como guardar noticias publicadas en 'marcadores' para su posterior visualización (marcador en progreso). 
