@@ -12,7 +12,7 @@ Siendo un medio periodístico digital que necesita de contínua actualización, 
 
 Imágenes Página Web:
 
-<iframe width="800" height="800" src="https://pplinews.tk"></iframe>
+<iframe width="800" height="800" src="https://www.pplinews.tk/"></iframe>
 
 
 Descripción de la aplicación móvil (Android Nativo)
